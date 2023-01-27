@@ -1,0 +1,22 @@
+.topDiv {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.temperature,
+.humidity {
+    width: 20rem;
+    aspect-ratio: 2;
+    border-radius: 1rem;
+    background-color: #efefef;
+    margin-top: 1rem;
+    display: block;
+    text-align: center;
+    padding: 0;
+}
+
+.topDiv hr {
+    background-color: rgba(84, 101, 126, 0.5);
+    height: 0.2rem;
+}
