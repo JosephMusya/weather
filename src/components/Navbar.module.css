@@ -1,12 +1,8 @@
-* {
-    color: white;
-    font-size: 1.2rem;
-}
-
 nav {
     background-color: #54657e;
     display: flex;
     align-items: center;
+    color: white;
 }
 
 .titleDiv {
