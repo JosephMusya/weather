@@ -17,7 +17,15 @@ function Homepage(){
                     <hr />
                     <p>56</p>
                 </div>
-            </div>                       
+                <div className={styles.humidity}>
+                    <div>
+                        <h2>Air Quality Index</h2>
+                    </div> 
+                    <hr />
+                    <p>56</p>
+                </div>
+            </div>    
+            <hr />                   
         </main>     
     )
 }
